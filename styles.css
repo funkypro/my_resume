@@ -1,0 +1,83 @@
+body{
+    background-color:grey;   
+}
+.wrapper{
+    margin: 5em;
+    box-align:center;
+    display: grid;
+    grid-template-columns: 225px 600px;
+}
+
+.intern {
+    font-family: 'Bitter', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.name {
+    font-family: 'Righteous', cursive;
+}
+
+.heading {
+    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Righteous', cursive;
+}
+ .skill-container {
+     width: 100%;
+     background-color: grey;
+ }
+
+ .skills {
+     text-align: right;
+     padding-top: 0px;
+     padding-bottom: 0px;
+     color: white;
+     font-size: xx-small;
+ }
+
+ .html {
+     width: 90%;
+     background-color: black;
+     height: 20px;
+ }
+
+ .python {
+     width: 90%;
+     background-color: black;
+     height: 20px;
+ }
+
+ .css {
+     width: 70%;
+     background-color: black;
+     height: 20px;
+ }
+
+ .js {
+     width: 50%;
+     background-color: black;
+     height: 20px;
+ }
+
+ .sql {
+     width: 70%;
+     background-color: black;
+     height: 20px;
+ }
+
+ .data {
+     width: 70%;
+     background-color: black;
+     height: 20px;
+ }
+
+ .c {
+     width: 60%;
+     background-color: black;
+     height: 20px;
+ }
+
+ .bootstrap {
+     width: 60%;
+     background-color: black;
+     height: 20px;
+ }
